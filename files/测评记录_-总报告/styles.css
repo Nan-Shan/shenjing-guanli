@@ -1828,3 +1828,61 @@
   width:43px;
   word-wrap:break-word;
 }
+#u742_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FF0000;
+}
+#u742 {
+  position:absolute;
+  left:362px;
+  top:520px;
+  width:201px;
+  height:31px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#FF0000;
+}
+#u743 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  word-wrap:break-word;
+}
+#u744_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:38px;
+  height:2px;
+}
+#u744 {
+  position:absolute;
+  left:325px;
+  top:520px;
+  width:37px;
+  height:1px;
+}
+#u745 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:33px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
