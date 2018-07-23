@@ -10,7 +10,11 @@
 .box_1 {
 }
 .box_2 {
-  color:#666666;
+  font-family:'等线';
+  font-weight:410;
+  font-style:normal;
+  font-size:18px;
+  color:#000000;
 }
 .box_3 {
   color:#666666;
@@ -104,6 +108,9 @@
 .icon {
 }
 .droplist {
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
   color:#000000;
   text-align:left;
 }
@@ -165,4 +172,11 @@
 ._形状1 {
 }
 .ellipse {
+}
+.new_style {
+}
+._按钮 {
+  font-size:14px;
+  text-align:left;
+  line-height:14px;
 }
