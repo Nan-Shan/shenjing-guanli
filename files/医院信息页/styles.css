@@ -2009,7 +2009,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:172px;
+  width:196px;
   height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2026,7 +2026,7 @@
   position:absolute;
   left:1001px;
   top:170px;
-  width:172px;
+  width:196px;
   height:14px;
   font-family:'等线 Bold', '等线 Regular', '等线';
   font-weight:700;
@@ -2036,7 +2036,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:172px;
+  width:196px;
   word-wrap:break-word;
 }
 #u182_div {
@@ -2059,7 +2059,7 @@
 #u182 {
   position:absolute;
   left:1004px;
-  top:199px;
+  top:205px;
   width:169px;
   height:20px;
   font-family:'等线 Bold', '等线 Regular', '等线';
@@ -2588,7 +2588,7 @@
   top:0px;
   width:78px;
   height:22px;
-  font-family:'等线';
+  font-family:'等线 Regular', '等线';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2611,7 +2611,7 @@
   top:0px;
   width:78px;
   height:22px;
-  font-family:'等线';
+  font-family:'等线 Regular', '等线';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2668,7 +2668,7 @@
   top:0px;
   width:78px;
   height:22px;
-  font-family:'等线';
+  font-family:'等线 Regular', '等线';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3241,7 +3241,7 @@
   top:0px;
   width:78px;
   height:22px;
-  font-family:'等线';
+  font-family:'等线 Regular', '等线';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3264,7 +3264,7 @@
   top:0px;
   width:78px;
   height:22px;
-  font-family:'等线';
+  font-family:'等线 Regular', '等线';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3321,7 +3321,7 @@
   top:0px;
   width:78px;
   height:22px;
-  font-family:'等线';
+  font-family:'等线 Regular', '等线';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -3716,8 +3716,8 @@
 }
 #u272 {
   position:absolute;
-  left:1001px;
-  top:145px;
+  left:1004px;
+  top:121px;
   width:172px;
   height:14px;
   font-family:'等线 Bold', '等线 Regular', '等线';
@@ -3731,12 +3731,37 @@
   width:172px;
   word-wrap:break-word;
 }
-#u274_div {
+#u274_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:172px;
+  width:131px;
   height:14px;
+}
+#u274 {
+  position:absolute;
+  left:1001px;
+  top:184px;
+  width:131px;
+  height:14px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#C9C9C9;
+}
+#u275 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  white-space:nowrap;
+}
+#u276_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:217px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3748,20 +3773,54 @@
   font-weight:700;
   font-style:normal;
 }
-#u274 {
+#u276 {
   position:absolute;
-  left:1004px;
-  top:121px;
-  width:172px;
-  height:14px;
+  left:1001px;
+  top:227px;
+  width:217px;
+  height:22px;
   font-family:'等线 Bold', '等线 Regular', '等线';
   font-weight:700;
   font-style:normal;
 }
-#u275 {
+#u277 {
   position:absolute;
   left:0px;
   top:0px;
-  width:172px;
+  width:217px;
+  word-wrap:break-word;
+}
+#u278_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:217px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'等线 Bold', '等线 Regular', '等线';
+  font-weight:700;
+  font-style:normal;
+}
+#u278 {
+  position:absolute;
+  left:1004px;
+  top:145px;
+  width:217px;
+  height:22px;
+  font-family:'等线 Bold', '等线 Regular', '等线';
+  font-weight:700;
+  font-style:normal;
+}
+#u279 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:217px;
   word-wrap:break-word;
 }
